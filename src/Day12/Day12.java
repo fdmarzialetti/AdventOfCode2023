@@ -18,8 +18,5 @@ public class Day12 {
     }
 
 
-    // posible strings
-    List<String> posibles = new ArrayList<>();
-
 
 }
